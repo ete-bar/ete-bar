@@ -15,7 +15,7 @@ AI engineer and founder. I build AI agents that do real work for people, and the
 
 ## How I work
 
-I build with Claude Code and Codex as my engineering team: parallel agent pipelines with adversarial reviewers, multi-agent security sweeps and staged rollouts. In 2026 that came to 5,900+ contributions and 900+ merged pull requests.
+At Sam Sair I hired the tech team and lead it. Across both companies, changes go through code review, automated security testing and a staged release before they reach users. In 2026 that came to 5,900+ contributions and 900+ merged pull requests.
 
 ## Stack
 
